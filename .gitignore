@@ -1,0 +1,111 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installers
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+
+# Caches
+*.cache
+*.pycache/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+*.orig
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython Notebook
+# Environments
+.env
+.venv
+env.bak/
+venv.bak/
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# AWS credentials
+.aws/credentials
+
+# Secret files
+secret*.txt
+keys.txt
+
+# Configurations
+config.ini
+settings.cfg
